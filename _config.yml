@@ -1,0 +1,28 @@
+name: ClaudiaMcKenzie
+favicon: null
+layout_spectrum: 0.14575458480976522
+typography_spectrum: 0.543052728055045
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.10272462922148407
+  lightness: 0.19359448458999395
+  saturation: 0.4668685288634151
+  rhythmicContrast: 0.9485662539955229
+purpose: []
