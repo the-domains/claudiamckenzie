@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[ClaudiaMcKenzie]]></title>
         <description><![CDATA[ClaudiaMcKenzie]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/claudiamckenzie/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 01:07:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Mar 2016 01:10:24 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/claudiamckenzie/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/69479c72-e114-4ed3-96d5-79e782f6a6e5.jpg">]]></description>
-            <link>undefined35e6ef58-15a6-4149-8f75-62ad868f8c75/index.html</link>
+            <link>https://thegrid.ai/claudiamckenzie/35e6ef58-15a6-4149-8f75-62ad868f8c75/index.html</link>
             <guid isPermaLink="false">35e6ef58-15a6-4149-8f75-62ad868f8c75</guid>
-            <pubDate>Fri, 04 Mar 2016 01:03:28 GMT</pubDate>
+            <pubDate>Fri, 04 Mar 2016 01:06:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
